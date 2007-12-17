@@ -11,7 +11,6 @@ Group: Networking/Other
 License: GPL
 Source0: connect.c
 Source1: connect.html
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 connect-proxy is a simple relaying command to make TCP network connection
