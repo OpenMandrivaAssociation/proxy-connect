@@ -1,6 +1,6 @@
 %define name proxy-connect
 %define version 1.95
-%define release %mkrel 5
+%define release 6
 
 Name: %{name}
 Version: %{version}
