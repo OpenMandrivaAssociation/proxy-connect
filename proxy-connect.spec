@@ -3,8 +3,8 @@
 %define release 6
 
 Name: %{name}
-Version: %{version}
-Release: %{release}
+Version:	100
+Release:	1
 Summary: Establish TCP connection using SOCKS4/5 and HTTP tunnel
 URL: http://www.taiyo.co.jp/~gotoh/ssh/connect.html
 Group: Networking/Other
