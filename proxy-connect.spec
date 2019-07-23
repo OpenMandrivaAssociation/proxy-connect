@@ -1,8 +1,6 @@
-%define name proxy-connect
-%define version 1.95
-%define release 6
 
-Name: %{name}
+
+Name: proxy-connect
 Version:	100
 Release:	1
 Summary: Establish TCP connection using SOCKS4/5 and HTTP tunnel
